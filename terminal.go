@@ -54,7 +54,7 @@ func Terminal(port int) {
 	modes := ssh.TerminalModes{
 		ssh.ECHO:          1,     // enable echoing
 		ssh.ECHOCTL:       1,	  // enable echoing ctl
-		ssh.IGNCR: 		   0, 	  // Ignore CR on input.
+		ssh.IGNCR: 	   0, 	  // Ignore CR on input.
 		ssh.TTY_OP_ISPEED: 14400, // input speed = 14.4kbaud
 		ssh.TTY_OP_OSPEED: 14400, // output speed = 14.4kbaud
 	}
