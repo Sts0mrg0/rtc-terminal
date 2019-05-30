@@ -1,5 +1,5 @@
 ## rtc-terminal (CLI)
-Rtc-terminal is a free and open-source terminal emulator. It supports protocol SSH via WebRTC.
+Rtc-terminal is a free and open-source terminal emulator. It supports protocol SSH via WebRTC. Solves the problem of the lack of public IP address, proxy server, servers behind NAT etc.
 
 1. Install rtc-ssh on remote device/server from the repository: https://github.com/mxseba/rtc-ssh
 
