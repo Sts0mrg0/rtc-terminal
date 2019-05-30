@@ -14,3 +14,5 @@ Option <code>-uuid</code> usage only first run, the uuid key will be saved autom
 
 ### Install from binary
 https://github.com/mxseba/rtc-terminal/releases
+
+Rtc-SSH uses the pion-WebRTC library: https://github.com/pion/webrtc
